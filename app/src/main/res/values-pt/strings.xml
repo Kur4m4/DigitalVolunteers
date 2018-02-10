@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voluntários Digitais</string>
+    <!-- Login -->
+    <string name="txt_username">Login</string>
+    <string name="hint_username">Digite seu login</string>
+    <string name="txt_password">Senha</string>
+    <string name="hint_password">Digite sua senha</string>
+    <string name="cb_keep_connected">Manter conectado</string>
+    <string name="btn_signin">Logar</string>
+    <string name="invalid_user">Usuário e/ou senha inválidos</string>
+    <!-- Menu -->
+    <string name="nav_ngos">ONGs</string>
+    <string name="nav_register_ngo">Cadastrar ONG</string>
+    <string name="nav_exit">Sair</string>
+    <!-- Cadastrar ONG -->
+    <string name="txt_name">Nome</string>
+    <string name="hint_ngo_name">Informe o nome da ONG</string>
+    <string name="txt_address">Endereço</string>
+    <string name="hint_ngo_address">Informe o endereço da ONG</string>
+    <string name="txt_phone">Telefone</string>
+    <string name="hint_ngo_phone">Informe o telefone da ONG</string>
+    <string name="hint_ngo_email">Informe o e-mail da ONG</string>
+    <string name="btn_register">Cadastrar</string>
+    <string name="invalid_ong">O nome da ONG é obrigatório</string>
+</resources>

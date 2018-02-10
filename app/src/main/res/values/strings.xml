@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">DigitalVolunteers</string>
+    <!-- Login -->
+    <string name="txt_username">Username</string>
+    <string name="hint_username">Type your username</string>
+    <string name="txt_password">Password</string>
+    <string name="hint_password">Type your password</string>
+    <string name="cb_keep_connected">Keep connected</string>
+    <string name="btn_signin">Sign in</string>
+    <string name="invalid_user">User and/or password is invalid</string>
+    <!-- Facebook -->
+    <string name="facebook_app_id" translatable="false">123813731676671</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb123813731676671</string>
+    <!-- Undefined -->
+    <string name="title_activity_recycler_view">RecyclerViewActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <!-- Menu Items -->
+    <string name="nav_ngos">NGOs</string>
+    <string name="nav_register_ngo">Register NGO</string>
+    <string name="nav_exit">Exit</string>
+    <!-- Register NGO -->
+    <string name="txt_name">Name</string>
+    <string name="hint_ngo_name">Type the NGO name</string>
+    <string name="txt_address">Address</string>
+    <string name="hint_ngo_address">Type the NGO Address</string>
+    <string name="txt_phone">Phone Number</string>
+    <string name="hint_ngo_phone">Type the NGO phone number</string>
+    <string name="txt_email">E-mail</string>
+    <string name="hint_ngo_email">Type the NGO e-mail</string>
+    <string name="btn_register">Register</string>
+    <string name="invalid_ong">The name of NGO is required</string>
+</resources>
